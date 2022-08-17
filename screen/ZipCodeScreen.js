@@ -1,4 +1,5 @@
 import React from "react"
+import { FlatList, Text, View } from "react-native"
 
 const availableZipItems = [
     { place: 'Hatyai', code: '90110' },
