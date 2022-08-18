@@ -6,5 +6,5 @@
   <li>แต่งหน้า HOME พร้อมกับพื้นหลัง ใน ZipCodeScreen.js</li>
 </ul>
 
-รูปแนบไว้ใน ROOT ของโปรเจค หน้าHOME.jpg และ หน้า WEATHER.jpg
+รูปแนบไว้ใน ROOT ของโปรเจค หน้าHOME.png และ หน้า WEATHER.png
 ## นายอัมจัด เจ๊ะและ 6210110739
