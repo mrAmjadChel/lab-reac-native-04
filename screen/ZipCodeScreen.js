@@ -18,12 +18,15 @@ const availableZipItems = [
             </View>
         </TouchableHighlight>
     )
+
    const _keyExtractor = item => item.code
 
    export default function ZipCodeScreen(){
         const navigation = useNavigation()
+
         return (
             <ImageBackground source={require('../bg2.jpg')} style={styles.backdrop}>
+                <Text style= {styles.top}>LOCATION</Text>
                 <FlatList
                     data={availableZipItems}
                     keyExtractor={_keyExtractor}
